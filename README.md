@@ -8,6 +8,8 @@ Roullete Game is a simple Android app in the form of a game that simulates Roule
 An Android phone with an API level of 15 or above.  
 
 ### Installing 
+*Download the apk [here](https://github.com/Sirbir/RouletteGame/blob/master/roulette.apk) and install on your phone.
+
 
 ## Built With
 * [Android Studio](https://developer.android.com/develop/index.html) - The development framework used
